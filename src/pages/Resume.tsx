@@ -11,19 +11,19 @@ const Resume = () => {
       }}
     >
       <header style={{ textAlign: 'center', borderBottom: '2px solid #eee', paddingBottom: '10px', marginBottom: '20px' }}>
-        <h1 style={{ margin: '0', fontSize: '2em' }}>DoHyeon KIM</h1>
-        <p style={{ margin: '5px 0' }}>11-29 Yuseong-daero, Daejeon, Kore</p>
-        <p style={{ margin: '5px 0' }}>+82-10-2780-3277</p>
-        <p style={{ margin: '5px 0' }}>gdb1520@gmail.com</p>
+        <h1 style={{ margin: '0', fontSize: '2em' }}>Gajin KIM</h1>
+        <p style={{ margin: '5px 0' }}>Daehak-ro, Yuseong-gu, Daejeon, Korea</p>
+        <p style={{ margin: '5px 0' }}>+82-10-3967-0374</p>
+        <p style={{ margin: '5px 0' }}>kimgajin0714@gmail.com</p>
         <p style={{ margin: '5px 0' }}>
-          <a style={{ color: '#0073e6', textDecoration: 'none' }} href="https://github.com/dohyeon321">
-            https://github.com/dohyeon321
+          <a style={{ color: '#0073e6', textDecoration: 'none' }} href="https://github.com/kimgajin">
+            https://github.com/kimgajin
           </a>
         </p>
       </header>
       <section style={{ marginBottom: '20px' }}>
         <h2 style={{ color: '#0073e6', borderBottom: '1px solid #ddd', paddingBottom: '5px' }}>OBJECTIVE</h2>
-        <p>Cybersecurity position in the Silicon Valley.</p>
+        <p>Cyber Security position in Seoul.</p>
       </section>
       <section style={{ marginBottom: '20px' }}>
         <h2 style={{ color: '#0073e6', borderBottom: '1px solid #ddd', paddingBottom: '5px' }}>SUMMARY</h2>
@@ -38,44 +38,38 @@ const Resume = () => {
         <p>Mar 2022 – Feb 2026 (expected)</p>
         <p>Courses taken included:</p>
         <ul style={{ listStyleType: 'disc', marginLeft: '20px' }}>
-          <li>Data Structure</li>
+          <li>Computer Programming</li>
           <li>Algorithm</li>
-          <li>Object-Oriented Design</li>
           <li>System Programming</li>
+          <li>Object-Oriented Design</li>
+          <li>Computer Architecture</li>
         </ul>
       </section>
       <section style={{ marginBottom: '20px' }}>
         <h2 style={{ color: '#0073e6', borderBottom: '1px solid #ddd', paddingBottom: '5px' }}>EXPERIENCE</h2>
         <div>
-          <h3 style={{ marginTop: '10px', color: '#555' }}>Encouragement Award, AI/SW Creative Contest, November 2023</h3>
+          <h3 style={{ marginTop: '10px', color: '#555' }}>Students at Information Security Specialization College, Mar 2024 - Present</h3>
           <ul style={{ listStyleType: 'disc', marginLeft: '20px' }}>
-            <li>Recognized for leadership in team project development.</li>
-            <li>Focused on creating an app beneficial for team collaboration during group assignments.</li>
-            <li>Utilized Flutter and Figma development tools for user-centered development.</li>
-            <li>Coordinated team roles and optimized project outcomes and performance using Slack.</li>
+            <li>Conducted overseas training and internship programs during summer and winter vacations with universities and companies.</li>
+            <li>Participated in the Information Security curriculum and related industry organizations in Korea.</li>
+            <li>Attended special lectures and seminars by industry experts.</li>
+            <li>Engaged in Information Security related contests and conferences.</li>
+            <li>Completed term projects in class utilizing C, C++, and Java.</li>
           </ul>
         </div>
         <div>
-          <h3 style={{ marginTop: '10px', color: '#555' }}>Java Mentor, School Club, March - May 2023</h3>
+          <h3 style={{ marginTop: '10px', color: '#555' }}>Participation in Coding Study Group, Mogakco, November – December 2023</h3>
           <ul style={{ listStyleType: 'disc', marginLeft: '20px' }}>
-            <li>Led introductory Java training sessions for freshmen, focusing on fundamental concepts.</li>
-            <li>Fostered teamwork among students to cultivate a supportive learning environment.</li>
-            <li>
-              Delivered individualized support to students, providing personalized assistance tailored to their specific learning needs and
-              challenges.
-            </li>
+            <li>Collaborated with study group members to solve difficult coding test problems.</li>
+            <li>Studied C, Java, and C++ languages by solving coding test problems and assignments.</li>
           </ul>
         </div>
       </section>
       <section style={{ marginBottom: '20px' }}>
         <h2 style={{ color: '#0073e6', borderBottom: '1px solid #ddd', paddingBottom: '5px' }}>ACTIVITIES</h2>
         <ul style={{ listStyleType: 'disc', marginLeft: '20px' }}>
-          <li>Participate in Information Protection Specialization College Track (2024-2026)</li>
-          <li>In charge of human resources at the student council login (2024)</li>
-          <li>Research in Cybersecurity Laboratory (2023-2024)</li>
-          <li>Encouragement Award at AI/SW Creation Contest (November, 2023)</li>
-          <li>Encouragement Award, ARGOS CTF CONTEST (2023)</li>
-          <li>Encouragement Award at AI/SW Junior Creative Contest (November, 2022)</li>
+          <li>Participated in AI/SW Creative Contest (November 2023)</li>
+          <li>Participated in AI/SW Junior Creative Contest (November 2022)</li>
         </ul>
       </section>
     </div>
